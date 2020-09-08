@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Asma Mushtaq Ahmed",
+    "occupation": "Software Engineering Student && Junior Wordpress Developer at BGIL",
+    "description": "Currently in Last Year of Bachelors in Software Engineering",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Asma, I am a student from Pakistan && I want to grow my high income skills && coding is one of them. I am passionate about learning new skillsets and help others learn by sharing my knowledge.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "abcxyz123@gmail.com",
+    "phone": "1234",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/asmamushtaqahmed",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/asmamushtaq/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/asmamushtaqahmed/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/asmamushtaq",
         "className": "fa fa-github"
       }
     ]
@@ -43,33 +43,27 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "UIT University",
+        "degree": "Bachelors in Software Engineering",
+        "graduated": " March 2021 (expected)",
+        "description": "Expected to be graduated in 2021"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "BGIL",
+        "title": "Team Member",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "description": "Developing customized websites using wordpress"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Javascript",
         "level": "100%"
       },
       {
-        "name": "CSS",
+        "name": "C#",
         "level": "95%"
       },
       {
@@ -77,7 +71,7 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "CSS",
         "level": "55%"
       },
       {
@@ -131,7 +125,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Asma must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
